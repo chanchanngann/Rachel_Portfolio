@@ -10,3 +10,4 @@
 
    3. Is Netflix has increasingly focusing on TV rather than movies in recent years?
 
+![](https://github.com/chanchanngann/Rachel_Portfolio/blob/main/images/3_target_audience.png)
