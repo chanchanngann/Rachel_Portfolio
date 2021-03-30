@@ -29,4 +29,4 @@
    
    6. Do the number of tags (making a product more discoverable) factor into the success of a product ?
 
-![](https://github.com/chanchanngann/ecommerce_sales/blob/master/images/20_heatmap.png)
+![](/images/20_heatmap.png)
