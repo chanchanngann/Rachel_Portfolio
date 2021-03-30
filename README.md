@@ -14,8 +14,9 @@
 
 # [Project 2: E-Commerce Platform (Wish) - Sales Prediction](https://github.com/chanchanngann/ecommerce_sales/tree/master)
 
-* Objective to answer the key question "how well a product is going to sell?" by developing 4 regression models to predict number of units sold for each product.
-* Also, tried to answer some inspiring questions while exploring the dataset of the e-commerce site Wish.
+* Objective to answer the business crucial question "how well a product is going to sell?" by developing 4 regression models to predict number of units sold for each product. Random Forest performed the best after features and hyperparameters tuning, scoring 0.77, i.e. 77% variations could be explained by the prediction model.
+ 
+* Also, I tried to look for patterns regarding various components vs. success of product and answered some inspiring questions while visualizing the dataset:
 
    1. How is human sensitiveness to price drops? (impact of discount on number of units sold)
 
