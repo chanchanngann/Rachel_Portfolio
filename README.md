@@ -31,3 +31,23 @@
    6. Do the number of tags (making a product more discoverable) factor into the success of a product ?
 
 ![](/images/20_heatmap.png)
+
+# [Project 3: Customer Segmentation by RFM Analysis w/ K-Means Clustering](https://github.com/chanchanngann/RFM)
+
+* From the Pareto Principle, 80% of sales come from 20% of customers. The objective of this project is to identify the best customers by performing RFM analysis with K-means clustering. 
+ 
+* Idea behind RFM: 
+  > - Recency (R) : Customers who have purchased from your store recently are more likely to convert again than those who haven't visit your store for a while
+  > - Frequency (F) : Customers who buy from your store more often are more likely to buy again than those who buy infrequenctly
+  > - Monetary (M) : Customers who spend more are more likely to buy again than those who spend less
+
+* **Customer Segmentation by RFM scores:**
+      we can group the customers into different segments based on the combination of RFM scores assigned to each customer. This will help us sharpen the understanding of the    target market and be more precise in communicating with actual and potential customers.
+
+    > - **Champions: the best customers!**
+    > - Loyalists
+    > - New Customers
+    > - Can’t Lose Them
+    > - Slipping
+
+![](/images/11_RFM_3Dplot1.png)
