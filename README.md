@@ -51,3 +51,12 @@
     > - Slipping
 
 ![](/images/11_RFM_3Dplot1.png)
+
+# [Project 4: Customer LTV forecast with classification models](https://github.com/chanchanngann/LTV_cluster)
+
+* The objective of this project is to identify the most profitable customer segment in the future among existing customers who have a known transaction history.
+Similar to project 3, I will continue with the RFM approach but also apply multiclass classification models to predict the LTV clusters. The LTV forecast could help us pinpoint the potential profitable customers so that we could direct marketing dollars to the right customers.
+
+![](/images/04_LTV_cluster.png)
+
+
